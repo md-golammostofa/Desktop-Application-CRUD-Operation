@@ -1,0 +1,112 @@
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\Database1.mdf
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\Database1_log.ldf
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.exe.config
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.exe
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.pdb
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csprojAssemblyReference.cache
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.Form1.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmViewProducts.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.Properties.Resources.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.GenerateResource.cache
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.CoreCompileInputs.cache
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.exe
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.pdb
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmInsertProduct.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmEditProduct.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmInsertStock.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmEditDeleteStock.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.Shared.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\FlashControlV71.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\ShockwaveFlashObjects.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\bin\Debug\stdole.dll
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmProductStockRpt.resources
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.CopyComplete
+D:\ESADR39\Module 06\Projects\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmStockInByDateRpt.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\Database1.mdf
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\Database1_log.ldf
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.exe.config
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.exe
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.pdb
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\FlashControlV71.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\stdole.dll
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csprojAssemblyReference.cache
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.Form1.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmEditDeleteStock.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmEditProduct.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmInsertProduct.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmInsertStock.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmProductStockRpt.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmStockInByDateRpt.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmViewProducts.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.Properties.Resources.resources
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.GenerateResource.cache
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.CoreCompileInputs.cache
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.CopyComplete
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.exe
+C:\Users\AT Computer\Desktop\R40_Ex_06\Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.pdb
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\Database1.mdf
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\Database1_log.ldf
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.exe.config
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.exe
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ProductStockin.pdb
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\ShockwaveFlashObjects.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\bin\Debug\stdole.dll
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csprojAssemblyReference.cache
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.Form1.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmEditDeleteStock.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmEditProduct.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmInsertProduct.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmInsertStock.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmProductStockRpt.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmStockInByDateRpt.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.FrmViewProducts.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.Properties.Resources.resources
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.GenerateResource.cache
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.CoreCompileInputs.cache
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.csproj.CopyComplete
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.exe
+E:\C#.NET ALL PROGRAM\Module_12_ALL_PROJECT\All Projects\06_Projects(ADO.NET)\7_Mostofa_1249807_Ex_06_Solution\ProductStockin_Project\ProductStockin\obj\Debug\ProductStockin.pdb
